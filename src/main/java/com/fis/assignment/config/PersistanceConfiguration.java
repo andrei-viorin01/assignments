@@ -18,8 +18,8 @@ public class PersistanceConfiguration {
     public DataSource dataSource() {
         DataSourceBuilder builder = DataSourceBuilder.create();
         builder.url("jdbc:postgresql://localhost:5432/fis-assignment");
-        builder.username("postgres");
-        builder.password("Feverleo1");
+        builder.username("username");
+        builder.password("password");
         return builder.build();
     }
 }
