@@ -1,5 +1,5 @@
-# FIS Assignment Offer REST API
-Restful Services for FIS technical assignment
+# Offer REST API
+Restful Services for Offers 
 
 ## Prerequisites
 - JDK 1.8
